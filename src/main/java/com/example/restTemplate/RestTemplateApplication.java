@@ -9,7 +9,7 @@ public class RestTemplateApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestTemplateApplication.class, args);
-		System.out.println("Rest Template Example");
+		System.out.println("Rest Template Example New");
 		RestTemplateApplication restTemplateApplication = new RestTemplateApplication();
 		restTemplateApplication.callService();
 	}
